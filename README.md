@@ -19,3 +19,6 @@ What is the problem we want to solve?
 
 
 However, as the number of layers in the CNN increase, i.e. as they get deeper, the 'vanishing gradient' problem arises. This means that as the path for information from the input to the output layers increases, it can cause certain information to 'vanish' or get lost which reduces the ability of the network to train effectively.
+
+
+For more information visit : https://www.linkedin.com/pulse/densely-connected-convolutional-networks-densenet-ayoub-kirouane
